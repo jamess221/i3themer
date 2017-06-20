@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F6EAE566-80D0-41F4-AD22-636076D8085C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="i3themer/MainWindow.cs">
+    <Files>
+      <File FileName="i3themer/MainWindow.cs" Line="128" Column="4" />
+      <File FileName="i3themer/Import.cs" Line="10" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.i3themer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

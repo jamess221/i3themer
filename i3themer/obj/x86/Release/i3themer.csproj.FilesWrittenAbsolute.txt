@@ -1,0 +1,4 @@
+/home/j/Projects/i3themer/i3themer/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/j/Projects/i3themer/i3themer/obj/x86/Release/i3themer.gtk-gui.gui.stetic
+/home/j/Projects/i3themer/i3themer/bin/Release/i3themer.exe
+/home/j/Projects/i3themer/i3themer/obj/x86/Release/i3themer.exe
